@@ -4,21 +4,6 @@
 >项目Wanted是一款支持多商家的扫码点餐APP
 为用户提供**店铺推荐**，**订单管理**，**扫码点餐**等功能，提高用户的就餐体验
 
--------
-### Core Artifacts
-#### Team & Division
-
-[团队分工以及职务](team-profile.md)
-
-#### Documentation
-项目管理文件
-- [竞争调查报告](Investigation.md)
-
-项目开发文件
-- UI原型说明
-- 代码规范
-- 需求规格说明
-- 技术/开发报告
 
 -------
 ### Iterations
